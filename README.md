@@ -1,46 +1,51 @@
-### Hi 👋
+# Anna Karoline Maciel
 
-<!--
-**annakcmaciel/annakcmaciel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**LinkedIn:** [Anna Karoline Maciel](https://www.linkedin.com/in/annakmaciel/)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## 
- <div>
-  <a href="https://github.com/annakcmaciel">
+## 🎯 **Objective**
 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=annakcmaciel&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img right="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annakcmaciel&layout=compact&langs_count=7&theme=radical"/>
-</div>
+Seeking a Senior/Specialist position in Operations to leverage my expertise in data-driven decision-making, process optimization, and risk management, driving impactful results and continuous improvement.
 
-## 
+---
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="AnnaK-Mysql" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="AnnaK-Post" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg">
-  <img align="center" alt="AnnaK-PowerBI" height="40" width="40" src="https://img.icons8.com/color/48/000000/power-bi.png"/>
-  <img align="center" alt="AnnaK-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    
- ##
+## 🛠 **Technical Skills**
 
- <div> 
-  <a href="https://instagram.com/annakmaciel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:annakmaciel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/annakmaciel" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
+- **Languages & Tools:** SQL (Advanced), Power BI, Python, VBA, Looker, Make (for automation), App Script
+- **Areas of Expertise:** Data Analytics, Business Intelligence, ETL, Dashboard Development
+- **Methodologies:** Agile Methodologies, Process Automation, Risk Management, Fraud Prevention Techniques
 
-##
-##
-##
+---
 
-Links: <a href="https://icons8.com/icon/03aYi0fY0D9X/power-bi">Power BI icon by Icons8</a>
+## 🏆 **Achievements**
+
+- **1st Place**: Data Hackathon - XP INC 2021
+- **4th Overall and 1st in Technical Solution**: DataHack Swap Financial 2022
+- **1st Place Best Mechanical Project**: NCDMP 2015
+- **2nd Place in Tensile Strength**: Mini Baja SAE - Southeast Stage 2012
+
+---
+
+## 📚 **Education**
+
+**Bachelor of Mechanical Engineering**  
+*Rio de Janeiro State University (IPRJ - UERJ, RJ)*  
+2012 - 2018
+
+---
+
+## 🌱 **Academic Projects**
+
+- **Mini Baja SAE Project** (2012-2013): 2nd place in Traction, Southeast Stage 2012.
+- **Voluntary Initiation at TECPOL** (2014-2016): NCDMP 2015 1st Place Best Project Award - Abrasion Meter.
+- **CNPQ Initiation** (2015-2016): Project on Biodegradable Polymers with Agricultural Residue.
+
+---
+
+## 📈 **Professional Interests**
+
+- Continuous Improvement in Operations
+- Data-Driven Decision Making
+- Risk Management & Fraud Prevention
+- Process Automation and Efficiency
