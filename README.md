@@ -6,7 +6,7 @@
 
 ## 🎯 **Objective**
 
-Seeking a Senior/Specialist position in Operations to leverage my expertise in data-driven decision-making, process optimization, and risk management, driving impactful results and continuous improvement.
+Seeking a Senior/Specialist position in data analyst to leverage my expertise in data-driven decision-making, process optimization, and risk management, driving impactful results and continuous improvement.
 
 ---
 
